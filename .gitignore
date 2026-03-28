@@ -1,0 +1,19 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+portable_python/
+
+# Data and Database Files
+*.csv
+*.zip
+*.duckdb
+*.db
+*.sqlite
+data/
+
+# OS Files
+__pycache__/
+*.pyc
+.DS_Store
